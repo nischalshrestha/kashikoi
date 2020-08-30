@@ -1,6 +1,6 @@
 # kashikoi
 
-kashikoi (pronounced kash-coy) is your music theory friend. kashikoi is a Japanese word that 
+賢い or kashikoi (pronounced kash-coy) is your music theory friend. kashikoi is a Japanese word that 
 means wise, intelligent, bright, or clever.
 
 I'm writing this Python library because I've been reusing some music theory facilities
